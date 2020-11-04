@@ -1,0 +1,10 @@
+com\guo\pay\impl\PayServiceImpl.class
+com\guo\pay\PayApplication.class
+com\guo\pay\pojo\PayInfo.class
+com\guo\pay\dao\PayInfoMapper.class
+com\guo\pay\enums\PayPlatformEnum.class
+com\guo\pay\config\WxAcountConfig.class
+com\guo\pay\config\AliPayAccountConfig.class
+com\guo\pay\controller\PayController.class
+com\guo\pay\config\BestPayConfig.class
+com\guo\pay\service\IPayService.class
